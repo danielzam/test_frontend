@@ -1,0 +1,9 @@
+body {
+  font-family: "Fredoka", sans-serif !important;
+}
+
+th,
+tr {
+  text-align: center;
+  vertical-align: center;
+}
